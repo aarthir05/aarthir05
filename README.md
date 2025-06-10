@@ -28,16 +28,6 @@
 - 🔐 Cybersecurity (Linux security, network protocols, basic pentesting)
 - 🧮 Algorithms & Data Structures
 - ☁️ Firebase and Cloud Integration
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aarthir05&show_icons=true&theme=radical" alt="Aarthi's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aarthir05&theme=radical&hide_border=false" alt="GitHub Streak" />
-</p>
-
 ---
 
 ### 📫 Let's Connect!
